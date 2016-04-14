@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/oxygenxml/webapp-github-plugin.git"
   },
-  "scripts": {
-    "package": "npm install && gulp prepare-package"
-  },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
