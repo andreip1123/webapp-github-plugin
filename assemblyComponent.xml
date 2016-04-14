@@ -19,7 +19,7 @@
 			<outputDirectory>/lib</outputDirectory>
 		</file>
 		<file>
-			<source>target/uglified/plugin.js</source>
+			<source>target/plugin.js</source>
 			<outputDirectory>/web</outputDirectory>
 		</file>
 		<file>
